@@ -12,7 +12,7 @@ public class HalloGit {
 		System.out.println("test8");
 		System.out.println("test 9: radom is hazard ");
 		System.out.println("testklajdi");
-		System.out.println("jkjkd");
+		System.out.println("jkjkdhhh");
 	}
 
 }
