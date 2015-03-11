@@ -5,6 +5,7 @@ public class HalloGit {
 		System.out.println("test1");
 		System.out.println("test2");
 		System.out.println("test3");
+		System.out.println("test ray ben 4 ");
 	}
 
 }
