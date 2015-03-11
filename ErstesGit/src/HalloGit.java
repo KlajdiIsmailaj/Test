@@ -8,6 +8,7 @@ public class HalloGit {
 		System.out.println("test ray ben 4 ");
 		System.out.println("test5");
 		System.out.println("test6");
+		System.out.println("test7");
 	}
 
 }
