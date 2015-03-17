@@ -9,7 +9,7 @@ public class HalloGit {
 	System.out.println("uig");
 	System.out.println("ggz");
 	System.out.println("my-t");
-	System.out.println("hhhhhhhhhhh");
+	System.out.println("hhhhhhhhhhhu");
 	}
 
 }
