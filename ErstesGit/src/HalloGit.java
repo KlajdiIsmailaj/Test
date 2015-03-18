@@ -13,6 +13,7 @@ public class HalloGit {
 	System.out.println("jjjkkj");
 	System.out.println("kati hahahahaha");
 	System.out.println("ulm");
+	System.out.println("KATA KATA KAETIRO NOEAIOS");
 	}
 
 }
