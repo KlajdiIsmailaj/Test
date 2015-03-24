@@ -20,6 +20,7 @@ public class HalloGit {
 	System.out.println("HAHAHAHA");
 	System.out.println("hi myt");
 	System.out.println("karate2");
+	System.out.println("abcdefg");
 	}
 
 }
