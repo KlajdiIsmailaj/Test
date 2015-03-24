@@ -16,6 +16,7 @@ public class HalloGit {
 	System.out.println("KATA KATA KAETIRO NOEAIOS");
 	System.out.println("Test ray");
 	System.out.println("aafafafa");
+	System.out.println("hallo karate");
 	}
 
 }
