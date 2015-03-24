@@ -19,6 +19,7 @@ public class HalloGit {
 	System.out.println("hallo karate");
 	System.out.println("HAHAHAHA");
 	System.out.println("hi myt");
+	System.out.println("karate2");
 	}
 
 }
